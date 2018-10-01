@@ -1,5 +1,5 @@
 flask
-pycrypto
+pycryptodome
 pyopenssl
 python-dateutil
 pyyaml
